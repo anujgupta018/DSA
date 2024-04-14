@@ -1,2 +1,2 @@
 # DSA
-Solutions of questions which I do
+This repository includes dsa questions
